@@ -64,12 +64,6 @@ Follow the steps below to set up and run the "CyberAware Hub" application:
 4. Complete the **Final Quiz** to measure progress.
 5. View results and progress on the **Dashboard**.
 
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## Contact
